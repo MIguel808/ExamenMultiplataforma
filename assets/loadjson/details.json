@@ -1,0 +1,30 @@
+[
+  {
+  "title":"Alertas",
+    "img": "assets/images/alerta.jpg"
+  },
+  {
+    "title":"Avatars",
+    "img": "assets/images/avatar.jpg"
+  },
+  {
+    "title":"Cards - Tarjetas",
+    "img": "assets/images/tarjeta.jpg"
+  },
+  {
+    "title":"Animated Container",
+    "img": "assets/images/animated.jpg"
+  },
+  {
+    "title":"Inputs",
+    "img": "assets/images/input.jpg"
+  },
+  {
+    "title":"Slider - Checks",
+    "img": "assets/images/slider.jpg"
+  },
+  {
+    "title":"Listas y Scroll",
+    "img": "assets/images/lista.jpg"
+  }
+]
